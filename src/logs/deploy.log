@@ -1,0 +1,258 @@
+[2026-02-26 10:01:35] Dashboard loaded
+[2026-02-26 10:03:25] Deploy started
+[2026-02-26 10:03:25] Selected branch: 32-bug---is-split-name-working
+[2026-02-26 12:28:14] Deploy started
+[2026-02-26 12:28:14] Selected branch: 32-bug---is-split-name-working
+[2026-02-26 12:28:14] Downloading branch ZIP...
+[2026-02-26 12:28:15] ZIP downloaded successfully.
+[2026-02-26 12:28:15] ZIP ready at: /home/nordic/deploy-app/tmp/deploy.zip
+[2026-02-26 14:01:01] Deploy started
+[2026-02-26 14:01:01] Selected branch: 32-bug---is-split-name-working
+[2026-02-26 14:01:01] Downloading branch ZIP...
+[2026-02-26 14:01:02] ZIP downloaded successfully.
+[2026-02-26 14:01:02] Extracting ZIP...
+[2026-02-26 14:35:58] Deploy started
+[2026-02-26 14:35:58] Selected branch: 32-bug---is-split-name-working
+[2026-02-26 14:35:58] Downloading branch ZIP...
+[2026-02-26 14:35:59] ZIP downloaded successfully.
+[2026-02-26 14:35:59] Extracting ZIP...
+[2026-02-26 14:37:28] Deploy started
+[2026-02-26 14:37:28] Selected branch: 32-bug---is-split-name-working
+[2026-02-26 14:37:28] Downloading branch ZIP...
+[2026-02-26 14:37:28] ZIP downloaded successfully.
+[2026-02-26 14:37:28] Extracting ZIP...
+[2026-02-26 14:37:28] ZIP extracted successfully.
+[2026-02-26 14:37:28] Could not detect root folder.
+[2026-02-26 14:37:28] Extraction failed.
+[2026-02-26 14:37:45] Deploy started
+[2026-02-26 14:37:45] Selected branch: 32-bug---is-split-name-working
+[2026-02-26 14:37:45] Downloading branch ZIP...
+[2026-02-26 14:37:46] ZIP downloaded successfully.
+[2026-02-26 14:37:46] Extracting ZIP...
+[2026-02-26 14:37:46] ZIP extracted successfully.
+[2026-02-26 14:37:46] Could not detect root folder.
+[2026-02-26 14:37:46] Extraction failed.
+[2026-02-26 14:39:18] Deploy started
+[2026-02-26 14:39:18] Selected branch: 32-bug---is-split-name-working
+[2026-02-26 14:39:18] Downloading branch ZIP...
+[2026-02-26 14:39:18] GitHub returned HTTP code: 302
+[2026-02-26 14:39:18] Download failed. Deploy aborted.
+[2026-02-26 14:40:52] Deploy started
+[2026-02-26 14:40:52] Selected branch: 32-bug---is-split-name-working
+[2026-02-26 14:40:52] Downloading branch ZIP...
+[2026-02-26 14:40:53] ZIP downloaded successfully. Size: 83754 bytes
+[2026-02-26 14:40:53] Extracting ZIP...
+[2026-02-26 14:40:53] ZIP extracted successfully.
+[2026-02-26 14:40:53] Root folder detected: woodbase-ne-woo-bf-9e38c79
+[2026-02-26 14:40:53] Ready for deployment from: /home/nordic/deploy-app/tmp/extracted/woodbase-ne-woo-bf-9e38c79
+[2026-02-26 16:38:04] Deploy started
+[2026-02-26 16:38:04] Selected branch: 32-bug---is-split-name-working
+[2026-02-26 16:38:04] Downloading branch ZIP...
+[2026-02-26 16:38:05] ZIP downloaded successfully. Size: 83754 bytes
+[2026-02-26 16:38:05] Extracting ZIP...
+[2026-02-26 16:38:05] ZIP extracted successfully.
+[2026-02-26 16:38:05] Root folder detected: woodbase-ne-woo-bf-9e38c79
+[2026-02-26 16:38:05] Ready for deployment from: /home/nordic/deploy-app/tmp/extracted/woodbase-ne-woo-bf-9e38c79
+[2026-02-26 17:29:04] Deploy started
+[2026-02-26 17:29:04] Selected branch: 32-bug---is-split-name-working
+[2026-02-26 17:29:04] Downloading branch ZIP...
+[2026-02-26 17:29:05] ZIP downloaded successfully. Size: 83754 bytes
+[2026-02-26 17:29:05] Extracting ZIP...
+[2026-02-26 17:29:05] ZIP extracted successfully.
+[2026-02-26 17:29:05] Root folder detected: woodbase-ne-woo-bf-9e38c79
+[2026-02-26 17:29:05] Deploying files...
+[2026-02-26 17:29:05] Deploying locally...
+[2026-02-26 17:29:05] Local deploy complete.
+[2026-02-26 17:29:05] Deploy SUCCESS.
+[2026-02-26 17:35:45] Deploy started
+[2026-02-26 17:35:45] Selected branch: 32-bug---is-split-name-working
+[2026-02-26 17:35:45] Downloading branch ZIP...
+[2026-02-26 17:35:46] ZIP downloaded successfully. Size: 83754 bytes
+[2026-02-26 17:35:46] Extracting ZIP...
+[2026-02-26 17:35:46] ZIP extracted successfully.
+[2026-02-26 17:35:46] Root folder detected: woodbase-ne-woo-bf-9e38c79
+[2026-02-26 17:35:46] Deploying files...
+[2026-02-26 17:35:46] Syncing files...
+[2026-02-26 17:35:46] Deleted directory: /home/nordic/deploy-app/live/gammlet skräp
+[2026-02-26 17:35:46] Deleted file: /home/nordic/deploy-app/live/hallodffd.php
+[2026-02-26 17:35:46] Local deploy complete.
+[2026-02-26 17:35:46] Deploy SUCCESS.
+[2026-02-26 17:40:17] Deploy started
+[2026-02-26 17:40:17] Selected branch: 32-bug---is-split-name-working
+[2026-02-26 17:40:17] Downloading branch ZIP...
+[2026-02-26 17:40:18] ZIP downloaded successfully. Size: 83754 bytes
+[2026-02-26 17:40:18] Extracting ZIP...
+[2026-02-26 17:40:18] ZIP extracted successfully.
+[2026-02-26 17:40:18] Root folder detected: woodbase-ne-woo-bf-9e38c79
+[2026-02-26 17:40:18] Deploying files...
+[2026-02-26 17:40:18] Syncing files...
+[2026-02-26 17:40:18] Local deploy complete.
+[2026-02-26 17:40:18] Deploy SUCCESS.
+[2026-02-26 17:40:35] Deploy started
+[2026-02-26 17:40:35] Selected branch: 32-bug---is-split-name-working
+[2026-02-26 17:40:35] Downloading branch ZIP...
+[2026-02-26 17:40:36] ZIP downloaded successfully. Size: 83754 bytes
+[2026-02-26 17:40:36] Extracting ZIP...
+[2026-02-26 17:40:36] ZIP extracted successfully.
+[2026-02-26 17:40:36] Root folder detected: woodbase-ne-woo-bf-9e38c79
+[2026-02-26 17:40:36] Deploying files...
+[2026-02-26 17:40:36] Syncing files...
+[2026-02-26 17:40:36] Local deploy complete.
+[2026-02-26 17:40:36] Deploy SUCCESS.
+[2026-02-26 17:41:51] Deploy started
+[2026-02-26 17:41:51] Selected branch: 4-price-scraper
+[2026-02-26 17:41:51] Downloading branch ZIP...
+[2026-02-26 17:41:52] ZIP downloaded successfully. Size: 67989 bytes
+[2026-02-26 17:41:52] Extracting ZIP...
+[2026-02-26 17:41:52] ZIP extracted successfully.
+[2026-02-26 17:41:52] Root folder detected: woodbase-ne-woo-bf-b82df28
+[2026-02-26 17:41:52] Deploying files...
+[2026-02-26 17:41:52] Syncing files...
+[2026-02-26 17:41:52] Deleted directory: /home/nordic/deploy-app/live/languages
+[2026-02-26 17:41:52] Updated file: /home/nordic/deploy-app/live/_old/admin/admin-control-page.php
+[2026-02-26 17:41:52] Updated file: /home/nordic/deploy-app/live/_old/admin/import-page.php
+[2026-02-26 17:41:52] Updated file: /home/nordic/deploy-app/live/_old/admin/pricing-actions.php
+[2026-02-26 17:41:52] Updated file: /home/nordic/deploy-app/live/_old/admin/pricing-page.php
+[2026-02-26 17:41:52] Updated file: /home/nordic/deploy-app/live/_old/admin/products-page.php
+[2026-02-26 17:41:52] Updated file: /home/nordic/deploy-app/live/_old/admin/settings-action.php
+[2026-02-26 17:41:52] Updated file: /home/nordic/deploy-app/live/_old/admin/settings-page.php
+[2026-02-26 17:41:52] Updated file: /home/nordic/deploy-app/live/_old/admin/views/pricing-page.php
+[2026-02-26 17:41:52] Updated file: /home/nordic/deploy-app/live/_old/css/nebf-style.css
+[2026-02-26 17:41:52] Updated file: /home/nordic/deploy-app/live/_old/includes/admin-page.php
+[2026-02-26 17:41:52] Updated file: /home/nordic/deploy-app/live/_old/includes/api-client.php
+[2026-02-26 17:41:52] Updated file: /home/nordic/deploy-app/live/_old/includes/class-markup-calculator.php
+[2026-02-26 17:41:52] Updated file: /home/nordic/deploy-app/live/_old/includes/class-pricing-engine.php
+[2026-02-26 17:41:52] Updated file: /home/nordic/deploy-app/live/_old/includes/helpers.php
+[2026-02-26 17:41:52] Updated file: /home/nordic/deploy-app/live/_old/includes/product-import.php
+[2026-02-26 17:41:52] Updated file: /home/nordic/deploy-app/live/_old/js/ne-beauty-woo-admin.js
+[2026-02-26 17:41:52] Updated file: /home/nordic/deploy-app/live/_old/nordic-equilibro-beautyfort.php
+[2026-02-26 17:41:52] Updated file: /home/nordic/deploy-app/live/admin/views/dashboard.php
+[2026-02-26 17:41:52] Updated file: /home/nordic/deploy-app/live/admin/views/products.php
+[2026-02-26 17:41:52] Updated file: /home/nordic/deploy-app/live/admin/views/settings.php
+[2026-02-26 17:41:52] Updated file: /home/nordic/deploy-app/live/assets/css/admin.css
+[2026-02-26 17:41:52] Deleted directory: /home/nordic/deploy-app/live/includes/Support
+[2026-02-26 17:41:52] Updated file: /home/nordic/deploy-app/live/includes/Controllers/DashboardController.php
+[2026-02-26 17:41:52] Updated file: /home/nordic/deploy-app/live/includes/Controllers/ProductsController.php
+[2026-02-26 17:41:52] Updated file: /home/nordic/deploy-app/live/includes/Controllers/SettingsController.php
+[2026-02-26 17:41:52] Updated file: /home/nordic/deploy-app/live/includes/Core/Plugin.php
+[2026-02-26 17:41:52] Updated file: /home/nordic/deploy-app/live/includes/Models/ProductRepository.php
+[2026-02-26 17:41:52] Updated file: /home/nordic/deploy-app/live/includes/Services/BeautyFortApiService.php
+[2026-02-26 17:41:52] Updated file: /home/nordic/deploy-app/live/includes/Services/WebPriceLookupQueueService.php
+[2026-02-26 17:41:52] Updated file: /home/nordic/deploy-app/live/includes/Services/WebPriceLookupService.php
+[2026-02-26 17:41:52] Updated file: /home/nordic/deploy-app/live/ne-bf-woo-mvc.php
+[2026-02-26 17:41:52] Local deploy complete.
+[2026-02-26 17:41:52] Deploy SUCCESS.
+[2026-02-26 17:44:35] Deploy started
+[2026-02-26 17:44:35] Selected branch: 32-bug---is-split-name-working
+[2026-02-26 17:44:35] Deploying commit: 9e38c79de1b22272b3362b039d84aa6c72fd312e
+[2026-02-26 17:44:35] Downloading branch ZIP...
+[2026-02-26 17:44:36] ZIP downloaded successfully. Size: 83754 bytes
+[2026-02-26 17:44:36] Extracting ZIP...
+[2026-02-26 17:44:37] ZIP extracted successfully.
+[2026-02-26 17:44:37] Root folder detected: woodbase-ne-woo-bf-9e38c79
+[2026-02-26 17:44:37] Syncing files...
+[2026-02-26 17:44:37] Updated file: /home/nordic/deploy-app/live/_old/admin/admin-control-page.php
+[2026-02-26 17:44:37] Updated file: /home/nordic/deploy-app/live/_old/admin/import-page.php
+[2026-02-26 17:44:37] Updated file: /home/nordic/deploy-app/live/_old/admin/pricing-actions.php
+[2026-02-26 17:44:37] Updated file: /home/nordic/deploy-app/live/_old/admin/pricing-page.php
+[2026-02-26 17:44:37] Updated file: /home/nordic/deploy-app/live/_old/admin/products-page.php
+[2026-02-26 17:44:37] Updated file: /home/nordic/deploy-app/live/_old/admin/settings-action.php
+[2026-02-26 17:44:37] Updated file: /home/nordic/deploy-app/live/_old/admin/settings-page.php
+[2026-02-26 17:44:37] Updated file: /home/nordic/deploy-app/live/_old/admin/views/pricing-page.php
+[2026-02-26 17:44:37] Updated file: /home/nordic/deploy-app/live/_old/css/nebf-style.css
+[2026-02-26 17:44:37] Updated file: /home/nordic/deploy-app/live/_old/includes/admin-page.php
+[2026-02-26 17:44:37] Updated file: /home/nordic/deploy-app/live/_old/includes/api-client.php
+[2026-02-26 17:44:37] Updated file: /home/nordic/deploy-app/live/_old/includes/class-markup-calculator.php
+[2026-02-26 17:44:37] Updated file: /home/nordic/deploy-app/live/_old/includes/class-pricing-engine.php
+[2026-02-26 17:44:37] Updated file: /home/nordic/deploy-app/live/_old/includes/helpers.php
+[2026-02-26 17:44:37] Updated file: /home/nordic/deploy-app/live/_old/includes/product-import.php
+[2026-02-26 17:44:37] Updated file: /home/nordic/deploy-app/live/_old/js/ne-beauty-woo-admin.js
+[2026-02-26 17:44:37] Updated file: /home/nordic/deploy-app/live/_old/nordic-equilibro-beautyfort.php
+[2026-02-26 17:44:37] Updated file: /home/nordic/deploy-app/live/admin/views/dashboard.php
+[2026-02-26 17:44:37] Updated file: /home/nordic/deploy-app/live/admin/views/products.php
+[2026-02-26 17:44:37] Updated file: /home/nordic/deploy-app/live/admin/views/settings.php
+[2026-02-26 17:44:37] Updated file: /home/nordic/deploy-app/live/assets/css/admin.css
+[2026-02-26 17:44:37] Updated file: /home/nordic/deploy-app/live/includes/Controllers/DashboardController.php
+[2026-02-26 17:44:37] Updated file: /home/nordic/deploy-app/live/includes/Controllers/ProductsController.php
+[2026-02-26 17:44:37] Updated file: /home/nordic/deploy-app/live/includes/Controllers/SettingsController.php
+[2026-02-26 17:44:37] Updated file: /home/nordic/deploy-app/live/includes/Core/Plugin.php
+[2026-02-26 17:44:37] Updated file: /home/nordic/deploy-app/live/includes/Models/ProductRepository.php
+[2026-02-26 17:44:37] Deleted file: /home/nordic/deploy-app/live/includes/Services/WebPriceLookupQueueService.php
+[2026-02-26 17:44:37] Deleted file: /home/nordic/deploy-app/live/includes/Services/WebPriceLookupService.php
+[2026-02-26 17:44:37] Updated file: /home/nordic/deploy-app/live/includes/Services/BeautyFortApiService.php
+[2026-02-26 17:44:37] Updated file: /home/nordic/deploy-app/live/includes/Support/helpers.php
+[2026-02-26 17:44:37] Updated file: /home/nordic/deploy-app/live/languages/ne-bf-woo-de_DE.mo
+[2026-02-26 17:44:37] Updated file: /home/nordic/deploy-app/live/languages/ne-bf-woo-de_DE.po
+[2026-02-26 17:44:37] Updated file: /home/nordic/deploy-app/live/languages/ne-bf-woo-en_US.po
+[2026-02-26 17:44:37] Updated file: /home/nordic/deploy-app/live/languages/ne-bf-woo-es_ES.mo
+[2026-02-26 17:44:37] Updated file: /home/nordic/deploy-app/live/languages/ne-bf-woo-es_ES.po
+[2026-02-26 17:44:37] Updated file: /home/nordic/deploy-app/live/languages/ne-bf-woo-sv_SE.mo
+[2026-02-26 17:44:37] Updated file: /home/nordic/deploy-app/live/languages/ne-bf-woo-sv_SE.po
+[2026-02-26 17:44:37] Updated file: /home/nordic/deploy-app/live/languages/ne-bf-woo.pot
+[2026-02-26 17:44:37] Updated file: /home/nordic/deploy-app/live/ne-bf-woo-mvc.php
+[2026-02-26 17:44:37] Local deploy complete.
+[2026-02-26 17:44:37] Deploy SUCCESS.
+[2026-02-27 05:26:37] Deploy started
+[2026-02-27 05:26:37] Selected branch: 4-price-scraper
+[2026-02-27 05:26:47] Deploy already running.
+[2026-02-27 05:26:52] Deploy already running.
+[2026-02-27 05:27:09] Deploy already running.
+[2026-02-27 05:27:38] Deploy started
+[2026-02-27 05:27:38] Selected branch: 4-price-scraper
+[2026-02-27 05:35:16] Deploy started
+[2026-02-27 05:35:16] Selected branch: 4-price-scraper
+[2026-02-27 05:35:16] Deploying commit: b82df28ed5f6642c5a880b88bb50a11cc6002e51
+[2026-02-27 05:35:16] Downloading branch ZIP...
+[2026-02-27 05:35:17] ZIP downloaded successfully. Size: 67989 bytes
+[2026-02-27 05:35:18] Extracting ZIP...
+[2026-02-27 05:35:18] ZIP extracted successfully.
+[2026-02-27 05:35:18] Root folder detected: woodbase-ne-woo-bf-b82df28
+[2026-02-27 05:35:18] Syncing files...
+[2026-02-27 05:35:18] Updated file: /home/nordic/deploy-app/public/../live/.github/copilot-instructions.md
+[2026-02-27 05:35:18] Updated file: /home/nordic/deploy-app/public/../live/.vscode/settings.json
+[2026-02-27 05:35:18] Updated file: /home/nordic/deploy-app/public/../live/.vscode/sftp.json
+[2026-02-27 05:35:18] Updated file: /home/nordic/deploy-app/public/../live/LICENSE
+[2026-02-27 05:35:18] Updated file: /home/nordic/deploy-app/public/../live/README.md
+[2026-02-27 05:35:18] Updated file: /home/nordic/deploy-app/public/../live/_old/admin/admin-control-page.php
+[2026-02-27 05:35:18] Updated file: /home/nordic/deploy-app/public/../live/_old/admin/import-page.php
+[2026-02-27 05:35:18] Updated file: /home/nordic/deploy-app/public/../live/_old/admin/pricing-actions.php
+[2026-02-27 05:35:18] Updated file: /home/nordic/deploy-app/public/../live/_old/admin/pricing-page.php
+[2026-02-27 05:35:18] Updated file: /home/nordic/deploy-app/public/../live/_old/admin/products-page.php
+[2026-02-27 05:35:18] Updated file: /home/nordic/deploy-app/public/../live/_old/admin/settings-action.php
+[2026-02-27 05:35:18] Updated file: /home/nordic/deploy-app/public/../live/_old/admin/settings-page.php
+[2026-02-27 05:35:18] Updated file: /home/nordic/deploy-app/public/../live/_old/admin/views/pricing-page.php
+[2026-02-27 05:35:18] Updated file: /home/nordic/deploy-app/public/../live/_old/css/nebf-style.css
+[2026-02-27 05:35:18] Updated file: /home/nordic/deploy-app/public/../live/_old/includes/admin-page.php
+[2026-02-27 05:35:18] Updated file: /home/nordic/deploy-app/public/../live/_old/includes/api-client.php
+[2026-02-27 05:35:18] Updated file: /home/nordic/deploy-app/public/../live/_old/includes/class-markup-calculator.php
+[2026-02-27 05:35:18] Updated file: /home/nordic/deploy-app/public/../live/_old/includes/class-pricing-engine.php
+[2026-02-27 05:35:18] Updated file: /home/nordic/deploy-app/public/../live/_old/includes/cron.php
+[2026-02-27 05:35:18] Updated file: /home/nordic/deploy-app/public/../live/_old/includes/helpers.php
+[2026-02-27 05:35:18] Updated file: /home/nordic/deploy-app/public/../live/_old/includes/images.php
+[2026-02-27 05:35:18] Updated file: /home/nordic/deploy-app/public/../live/_old/includes/product-import.php
+[2026-02-27 05:35:18] Updated file: /home/nordic/deploy-app/public/../live/_old/includes/stock-price-sync.php
+[2026-02-27 05:35:18] Updated file: /home/nordic/deploy-app/public/../live/_old/includes/sync-to-woo.php
+[2026-02-27 05:35:18] Updated file: /home/nordic/deploy-app/public/../live/_old/js/ne-beauty-woo-admin.js
+[2026-02-27 05:35:18] Updated file: /home/nordic/deploy-app/public/../live/_old/nordic-equilibro-beautyfort.php
+[2026-02-27 05:35:18] Updated file: /home/nordic/deploy-app/public/../live/admin/views/dashboard.php
+[2026-02-27 05:35:18] Updated file: /home/nordic/deploy-app/public/../live/admin/views/partials/page-header-tabs.php
+[2026-02-27 05:35:18] Updated file: /home/nordic/deploy-app/public/../live/admin/views/products.php
+[2026-02-27 05:35:18] Updated file: /home/nordic/deploy-app/public/../live/admin/views/settings.php
+[2026-02-27 05:35:18] Updated file: /home/nordic/deploy-app/public/../live/assets/css/admin.css
+[2026-02-27 05:35:18] Updated file: /home/nordic/deploy-app/public/../live/includes/Controllers/AbstractAdminController.php
+[2026-02-27 05:35:18] Updated file: /home/nordic/deploy-app/public/../live/includes/Controllers/AdminMenuController.php
+[2026-02-27 05:35:18] Updated file: /home/nordic/deploy-app/public/../live/includes/Controllers/AdminPageRouter.php
+[2026-02-27 05:35:18] Updated file: /home/nordic/deploy-app/public/../live/includes/Controllers/DashboardController.php
+[2026-02-27 05:35:18] Updated file: /home/nordic/deploy-app/public/../live/includes/Controllers/ProductsController.php
+[2026-02-27 05:35:18] Updated file: /home/nordic/deploy-app/public/../live/includes/Controllers/SettingsController.php
+[2026-02-27 05:35:18] Updated file: /home/nordic/deploy-app/public/../live/includes/Core/Autoloader.php
+[2026-02-27 05:35:18] Updated file: /home/nordic/deploy-app/public/../live/includes/Core/Plugin.php
+[2026-02-27 05:35:18] Updated file: /home/nordic/deploy-app/public/../live/includes/Models/ProductRepository.php
+[2026-02-27 05:35:18] Updated file: /home/nordic/deploy-app/public/../live/includes/Services/BeautyFortApiService.php
+[2026-02-27 05:35:18] Updated file: /home/nordic/deploy-app/public/../live/includes/Services/NoticeService.php
+[2026-02-27 05:35:18] Updated file: /home/nordic/deploy-app/public/../live/includes/Services/ProductSyncService.php
+[2026-02-27 05:35:18] Updated file: /home/nordic/deploy-app/public/../live/includes/Services/WebPriceLookupQueueService.php
+[2026-02-27 05:35:18] Updated file: /home/nordic/deploy-app/public/../live/includes/Services/WebPriceLookupService.php
+[2026-02-27 05:35:18] Updated file: /home/nordic/deploy-app/public/../live/ne-bf-woo-mvc.php
+[2026-02-27 05:35:18] Local deploy complete.
+[2026-02-27 05:35:18] Deploy SUCCESS.

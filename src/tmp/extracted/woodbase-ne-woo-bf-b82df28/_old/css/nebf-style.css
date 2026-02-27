@@ -1,0 +1,95 @@
+/* =========================
+   Huvudrad
+   ========================= */
+.nebf-products-table tr.product-row {
+    cursor: pointer;
+    transition: background-color 0.15s ease;
+}
+
+.nebf-products-table tr.product-row:hover {
+    background-color: #eef6ff;
+}
+
+/* Markerad rad (checkbox vald) */
+.nebf-products-table tr.product-row.is-selected {
+    background-color: #e6f4ea !important;
+}
+
+/* Extra tydlig vänsterkant */
+.nebf-products-table tr.product-row.is-selected td:first-child {
+    box-shadow: inset 4px 0 0 #46b450;
+}
+
+/* Öppen rad */
+.product-row.is-selected {
+    background: #e8f2ff;
+    box-shadow: inset 3px 0 0 #2271b1;
+}
+
+/* =========================
+   Accordion-tabell
+   ========================= */
+.nebf-inner-table {
+    width: 100%;
+    border-collapse: collapse;
+    background: #fff;
+}
+
+.nebf-inner-table th {
+    width: 220px;
+    text-align: left;
+    padding: 8px 10px;
+    background: #f6f7f7;
+    font-weight: 600;
+    border-bottom: 1px solid #ddd;
+}
+
+.nebf-inner-table td {
+    padding: 8px 10px;
+    border-bottom: 1px solid #ddd;
+}
+
+/* =========================
+   Status-pill
+   ========================= */
+.status-pill {
+    display: inline-block;
+    padding: 3px 10px;
+    border-radius: 12px;
+    font-size: 12px;
+    font-weight: 600;
+}
+
+.status-active {
+    background: #e7f7ed;
+    color: #0a7d32;
+}
+
+.status-inactive {
+    background: #fdecea;
+    color: #b32d2e;
+}
+
+/* =========================
+   Chevron / expand
+   ========================= */
+.nebf-expand-col {
+    width: 36px;
+}
+
+.nebf-expand {
+    text-align: center;
+    color: #2271b1;
+}
+
+/* Standard chevron: pekar höger */
+.product-row .dashicons {
+    transition: transform 0.2s ease;
+    display: inline-block;
+    transform: rotate(-90deg); /* pekar åt höger initialt */
+}
+
+/* Öppen rad: pekar nedåt */
+.product-row.is-open .dashicons {
+    transform: rotate(0deg); /* pekar nedåt */
+}

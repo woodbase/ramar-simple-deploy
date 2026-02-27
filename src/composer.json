@@ -1,0 +1,12 @@
+{
+    "name": "nordic/deploy-app",
+    "authors": [
+        {
+            "name": "woodbase",
+            "email": "martin.skov.nielsen@gmail.com"
+        }
+    ],
+    "require": {
+        "phpseclib/phpseclib": "^3.0"
+    }
+}
