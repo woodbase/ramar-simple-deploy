@@ -1,27 +1,34 @@
 <?php
 // test-ftp.php
 
-require __DIR__ . '/../src/deploy.php';
+<?php
 
-$config = require __DIR__ . '/../bootstrap.php';
+require '../config/config.php';
+require '../src/deploy.php';
 
-try {
+$config = require '../config/config.php';
 
-    $ftp = ftp_connect($config['ftp_host']);
+$ftpConfig = $config['ftp'];
 
-    if (!$ftp) {
-        throw new Exception("Could not connect to FTP host");
-    }
+if ($ftpConfig['ssl']) {
+    $ftp = ftp_ssl_connect($ftpConfig['host'], $ftpConfig['port']);
+} else {
+    $ftp = ftp_connect($ftpConfig['host'], $ftpConfig['port']);
+}
 
-    if (!ftp_login($ftp, $config['ftp_user'], $config['ftp_pass'])) {
-        throw new Exception("FTP login failed");
-    }
+if (!$ftp) {
+    die("Could not connect");
+}
 
-    ftp_pasv($ftp, true);
+if (!ftp_login($ftp, $ftpConfig['user'], $ftpConfig['pass'])) {
+    die("Login failed");
+}
 
-    echo "FTP connection successful!";
+ftp_pasv($ftp, true);
 
-    ftp_close($ftp);
+echo "FTP connection successful!";
+
+ftp_close($ftp);
 
 } catch (Exception $e) {
     echo $e->getMessage();
